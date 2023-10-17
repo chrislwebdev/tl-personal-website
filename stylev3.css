@@ -49,6 +49,7 @@ body {
   color: rgba(101, 100, 99, 1);
   max-width: 1350px;
   margin: auto;
+  background: lightgray;
 }
 
 h1,
