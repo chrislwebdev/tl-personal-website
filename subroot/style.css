@@ -2,22 +2,22 @@
 
 @font-face {
   font-family: NeueHaasRegular;
-  src: url(./additional-files/neuehaasdisplaymediu-webfont.woff);
+  src: url(/additional-files/neuehaasdisplaymediu-webfont.woff);
 }
 
 @font-face {
   font-family: NeueHaasLight;
-  src: url(./additional-files/neuehaasdisplaylight-webfont.woff);
+  src: url(/additional-files/neuehaasdisplaylight-webfont.woff);
 }
 
 @font-face {
   font-family: NeueHaasBold;
-  src: url(./additional-files/neuehaasdisplaybold-webfont.woff);
+  src: url(/additional-files/neuehaasdisplaybold-webfont.woff);
 }
 
 @font-face {
   font-family: NeueHaasRoman;
-  src: url(./additional-files/neuehaasdisplayroman-webfont.woff);
+  src: url(/additional-files/neuehaasdisplayroman-webfont.woff);
 }
 
 *,
