@@ -323,6 +323,7 @@ p {
   color: rgba(95, 97, 112, 1);
   font-family: var(--ff-light);
   margin-block: 0.6rem;
+  /* background: pink; */
 }
 
 .timeline {
@@ -349,7 +350,7 @@ p {
   display: grid;
   grid-template-columns: 25% 45% 20%;
   gap: 5%;
-  margin-bottom: 2.5rem;
+  margin-bottom: 4.5rem;
   font-family: var(--ff-regular);
 }
 
@@ -1179,7 +1180,7 @@ footer {
   }
 
   .timeline {
-    margin-top: 16rem;
+    margin-top: 17.5rem;
   }
 
   .timeline-container {
@@ -1194,9 +1195,9 @@ footer {
   .timeline-background-img {
     position: absolute;
     top: 5%;
-    left: -36%;
+    left: -20%;
     height: 96%;
-    width: 56%;
+    width: 40%;
   }
 
   .portfolio-entry--center {
