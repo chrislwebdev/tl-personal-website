@@ -107,6 +107,7 @@ main {
 /* Navbar / Hero */
 nav {
   margin-top: 5rem;
+  background: pink;
 }
 
 .homepage-nav {
