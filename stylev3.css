@@ -1144,14 +1144,30 @@ footer {
   .about-img-container {
     display: inline-block;
     height: 95%;
+    background: pink;
   }
 
   .about-img {
     height: 100%;
-    /* max-height: max-content; */
     max-height: 35rem;
     max-width: max-content;
     /* object-fit: cover; */
+  }
+
+  @-moz-document url-prefix() {
+    .about-img-container {
+      display: inline-block;
+      height: 35rem;
+      background: red;
+      /* display: flex;
+      align-items: center; */
+    }
+
+    .about-img {
+      max-height: 100%;
+      max-width: 20rem;
+      object-fit: cover;
+    }
   }
 
   .about--rls {
