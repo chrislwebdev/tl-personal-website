@@ -27,7 +27,7 @@
       referrerpolicy="no-referrer"
     />
 
-    <link rel="stylesheet" href="/stylev3.css?r=16102023" />
+    <link rel="stylesheet" href="/stylev3.css?r=15102023" />
 
     <title>Tui Lucking Blog</title>
   </head>
@@ -164,13 +164,17 @@
     $(".owl-carousel").owlCarousel({
       loop: false,
       margin: 50,
+      navText: [
+        "<div class='nav-btn prev-slide'></div>",
+        "<div class='nav-btn next-slide'></div>",
+      ],
       nav: true,
       dots: false,
       responsive: {
         0: {
           items: 1,
         },
-        600: {
+        650: {
           items: 2,
         },
         1150: {
