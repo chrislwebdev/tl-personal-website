@@ -195,7 +195,7 @@ nav {
 }
 
 .about-info-1 {
-  background: url("./images/who-am-i-background.png");
+  background: url("/images/who-am-i-background.png");
   background-repeat: no-repeat;
   background-position: 100% 100%;
   background-size: 55% 100%;
@@ -222,7 +222,7 @@ nav {
 }
 
 .about-info-2 {
-  background: url("./images/Rectangle\ 575.png");
+  background: url("/images/Rectangle\ 575.png");
   background-repeat: no-repeat;
   background-size: 60% 100%;
   background-position: 0% 100%;
@@ -340,7 +340,7 @@ p {
 }
 
 .timeline-container {
-  background: url(./images/my-timeline-background.png);
+  background: url(/images/my-timeline-background.png);
   background-repeat: no-repeat;
   background-size: 50% 100%;
   background-position: 0% 100%;
@@ -543,7 +543,7 @@ footer {
   left: 0;
   height: 100%;
   width: 100%;
-  background: url("./images/project-arrow.png");
+  background: url("/images/project-arrow.png");
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 70%;
@@ -1205,7 +1205,7 @@ footer {
     justify-content: space-between;
     width: 95%;
     max-width: 65rem;
-    background: url(./images/portfolio-entry-page-break-background.png);
+    background: url(/images/portfolio-entry-page-break-background.png);
     background-repeat: no-repeat;
     background-position: 0% 100%;
     background-size: 95% 100%;
