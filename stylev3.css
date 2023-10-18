@@ -262,8 +262,8 @@ nav {
 
 /* Mid-page hero */
 .mid-hero-container {
-  margin-bottom: 120px;
-  height: 40rem;
+  /* margin-bottom: 120px; */
+  height: max-content;
   overflow: hidden;
 }
 
@@ -1158,9 +1158,6 @@ footer {
     .about-img-container {
       display: inline-block;
       height: 35rem;
-      background: red;
-      /* display: flex;
-      align-items: center; */
     }
 
     .about-img {
