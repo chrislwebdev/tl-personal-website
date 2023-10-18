@@ -1144,7 +1144,6 @@ footer {
   .about-img-container {
     display: inline-block;
     height: 95%;
-    background: pink;
   }
 
   .about-img {
@@ -1175,7 +1174,6 @@ footer {
     width: 100%;
     margin: 0;
     margin: auto;
-    /* background: pink; */
   }
 
   /* Resume */
